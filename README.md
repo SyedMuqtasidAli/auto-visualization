@@ -27,8 +27,7 @@ Contributions are welcome! Feel free to open issues or pull requests if you have
 ![image](https://github.com/SyedMuqtasidAli/auto-visualization/assets/107794270/727fd76f-3d0f-4391-b858-34b24c76d94a)
 
 
-```
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muqtasid5266@gmail.com)
 
-```
+
 
